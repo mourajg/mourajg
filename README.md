@@ -1,5 +1,5 @@
 <div align = "center">
-	<img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mourajg">
+	<img height = "200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mourajg">
 </div>
 <br>
 <div align = "center" style = "display: inline_block">
